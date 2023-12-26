@@ -1,0 +1,101 @@
+
+
+.main-headin {
+  color: #00d69a;
+  font-family: "courier";
+  font-weight: bold;
+  font-style: italic;
+}
+
+.main-container {
+  font-family: "Roboto";
+}
+
+.wiki-search-header {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d5cdcd;
+  padding-top: 30px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  margin-bottom: 40px;
+}
+
+.wiki-logo {
+  margin-bottom: 30px;
+  width: 150px;
+}
+
+.search-input {
+  font-size: 18px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d5cdcd;
+  border-radius: 3px;
+  padding: 10px;
+}
+
+.search-results {
+  width: 100%;
+  padding-left: 20px;
+}
+
+.result-item {
+  margin-bottom: 20px;
+}
+
+.result-title {
+  font-size: 22px;
+}
+
+.link-description {
+  color: #444444;
+  font-size: 15px;
+}
+
+.result-url {
+  color: #006621;
+  text-decoration: none;
+}
+
+.n-letter {
+  color: #4298f5;
+}
+
+.k-letter {
+  color: #f70207;
+  font-size: 25px;
+}
+
+.earth {
+  width: 50px;
+  padding: 0px;
+}
+
+.s-letter {
+  color: #02d62d;
+}
+
+.e-letter {
+  color: #f5ed0f;
+  font-size: 20px;
+  margin-left: 0px;
+}
+
+.btn {
+  background-color: lightblue;
+  border-width: 0px;
+  outline: none;
+  margin: 10px;
+
+}
+
+.btn-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+
+}
